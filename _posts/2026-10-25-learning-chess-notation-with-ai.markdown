@@ -45,7 +45,7 @@ Because lessons are simply HTML files, we have the complete power of the browser
 
 Here is what the top of the first lesson looked like:
 
-![the first few paragraphs of my first lesson](/blog/assets/first-chess-notation-lesson.png){:style="width: 75%; display: block; margin: 0 auto" }
+![the first few paragraphs of my first lesson](/assets/first-chess-notation-lesson.png){:style="width: 75%; display: block; margin: 0 auto" }
 
 And here is the proposed curriculum for my learning journey.
 It was revised and updated once new evidence of my learning progress came in.
